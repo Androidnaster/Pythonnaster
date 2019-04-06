@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+<head>
+
+
+<style>
+body{
+	
+body-color: yellow;
+
+    }
+    
+    footer{
+    	color:Turquoise;
+    }
+    h3{
+    	color:green;
+    }
+     div{
+     	color:grey;
+     }
+
+
+.acceptbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+
+.registerbtn:hover {
+  opacity:0;
+}
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+/* Add a blue text color to links */
+a {
+  color: lightblue;
+}
+h1{
+	color:green;
+}
+
+alert("Remember to accept the terms at the bottom ")
+
+
+</style>
+
+
+ </head>
+ <body>
+ <h1>  TERMS
+      AND CONDITIONS 
+      OF CONFIDENTIALITY</h1>
+
+
+       
+       <hr>
+    
+     <hr>
+     
+     These terms and conditions 
+     apply to all members of 
+     Pynaster.com and all senior 
+     members 
+       
+       <hr>
+       <h3>Pynasters pledge to confidentiality</h3>
+       We promise to keep your
+        information private and 
+        protected at all times
+        <hr>
+        <h3>Your pledge to keep your information protected
+        </h3>
+        <hr>
+        I a Pynaster member 
+        pledge to keep my personal 
+        and private information away from hands
+         and eyes of anyone who might have wrong motives.
+         <hr>
+         <footer>
+          <div> REMEMBER TO KEEP ALL YOUR INFO </div>PROTECTED,ALL YOUR PRIVATE INFO
+          </footer>
+       
+<button type="submit" class="acceptbtn"><a href="
+index.html"><h4>Accept</h4></a></button>
+  
+
+
+
+
+
+
+
+
+
+</body></html>
