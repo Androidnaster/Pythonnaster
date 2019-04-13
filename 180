@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+    <html>
+         <head>
+          <meta charset="UTF-8">
+<meta name="author" content="Edwin Shaku">
+<meta name="keywords" content="Pynaster registration,sign up,sign in,log in,computer,android,programming,python,C++,Tutorial coding ">
+<meta name="description" content="Validate email and sign up to pynaster.What I benefit from programming.Real life applications of Python language .a guide to coding. ">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+    
+         <style>
+         h1{
+         	color:plum;
+         }
+         hr{
+         	opacity:0.4;
+         }
+         a{
+         	color:dodgerblue;
+         }
+         p{
+         	color:#40E0D0;
+         }
+         i{
+         	color:LightSalmon;
+         }
+         </style>
+         <hr>
+           <title>Pynaster services</title>
+           <h1>Pynaster services </h1>
+         </head>
+         <hr>
+         
+           <p>We at Python Naster
+            offer our services in
+             computer programing.We offer them
+              free of charge and there
+             are also paid services which
+              come with  templates for 
+              your programming needs.For
+               all the two options(paid or free)
+              we require you to have a Pynaster account
+              to proceed to any of our services.Keep 
+              in mind that the free services will be helpful
+               but won't be as much as helpful as
+                the paid services.</p>
+                <hr>
+                <h4>First
+         things first</h4>
+      <p> <div>  <a href="reg.html">Sign up</a></div>for a Pynaster account 
+     <p> and choose the type of service you wish for</p>
+    <i>I suggest you choose the paid sevices</i>
+    </html>

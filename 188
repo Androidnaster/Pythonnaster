@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+
+<meta charset="UTF-8">
+<meta name="author" content="Edwin Shaku">
+<meta name="keywords" content="Pynaster registration,sign up,sign in,log in,computer,android,programming,python,C++,Tutorial coding ">
+<meta name="description" content="Validate email and sign up to pynaster.What I benefit from programming.Real life applications of Python language .a guide to coding. ">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+    
+
+   <head>
+     <style>
+     article{
+     	color: Plum ;
+     }
+     h1{
+     	color:LightSalmon ;
+     }
+     
+     i{
+     	color:dodgerblue;
+     }
+     
+/* Add padding to containers */
+.button {
+	padding:16px;
+}
+ .backbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+  .backbtn:hover {
+  opacity:1;
+}
+  
+     </style>
+   </head>
+    <h1>Request Received
+    to be an official Pynaster
+    member</h1>
+    <img src="logo.jpg" width="300" height="200"><alt>
+   <i> A cool photo of Pynasters logo</i></alt>
+  <p><b>We have sent you an email.Open it and click
+   on <article>'validate your email'</article></i></p>
+<p>You will be redirected instantly</p>
+        <footer>
+        
+
+ <button type="submit"
+     class="backbtn"><a
+      href="reg.html">Back</a></button>
+      </footer>
+  
+
+
+
+
+
+
+</html>

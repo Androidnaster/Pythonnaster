@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+    
+    <meta charset="UTF-8">
+<meta name="author" content="Edwin Shaku">
+<meta name="keywords" content="Pynaster registration,sign up,sign in,log in,computer,android,programming,python,C++,Tutorial coding ">
+<meta name="description" content="Validate email and sign up to pynaster.What I benefit from programming.Real life applications of Python language .a guide to coding. ">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+    
+    
+    <style>
+    p{
+    	color:#20B2AA ;
+    }
+   h3, h2{
+    	color:LightSalmon ;
+    }
+    h1{
+    	color:aqua;
+    	
+    }
+    div{
+    	color:plum;
+    }
+    hr{
+    	opacity:0.3;
+    }
+    </style>
+    <script>
+    alert("An introduction on data types")
+    </script>
+    <hr>
+      <h1>Python programming tutorial</h1>
+      <hr>
+    </head>
+    <body>
+<p> <i>  Welcome to our first
+     tutorial on Python.Recently
+     I provided an intriguing intro into 
+     the wonderful world of programming.
+     In particular the popular and developed
+      language of Python.
+      I will provide programs 
+      to strictly Pynaster members only.
+      Which means you are a member as you
+       can access this wonderful page.</i></p>
+       <hr>
+       <h2>Let's get on it</h2>
+     <i>  what you will need:</i>
+    <div> <b>*an IDE(integrated development enviroment)
+     .I suggest you take a
+      good look at my guide
+       on tools to use</b></div>
+     <div>  <b>*an android device or your pc.</b>
+     </div>
+     <hr>
+   <h2> Let's begin on data types</h2>
+  <p> Data types are a very common thing you will 
+   be most likely be dealing with on python.I assure 
+   you that there will be no program that will not 
+   include data types.</p>
+   
+ <hr>
+ <h3>The common data 
+ types you would be
+  dealing with</h3>
+  
+  <hr>
+  <hr>
+  <div><b>int</b>-any interger (either"+" or "-")</div>
+  <hr>
+   <div><b>strings</b>-these involves plain text</div>
+  <hr>
+   <div><b>floats</b>-these are int and decimal numbers</div>
+  <hr>
+  <hr>
+ <p> Below is a the most basic program 
+  that has a string</p>
+  
+  
+ <br></br>
+ <hr>
+ <i>print("Hello World")</i>
+ <hr>
+ 
+<p> This is why I love Python, 
+ it is fairly easy to learn.
+ What you have seen above is a program
+  that commands a computer in a language 
+  it can understand .This program tells the 
+  computer to say  <i>Hello World</i></p>
+  
+ <hr>
+ Now a program that has intergers
+<br></br>
+
+<div> <i> x=3 </i> </div>
+
+<div> <i> y=7 </i> </div
+
+<i>result=int(x)+int(y)</i>
+
+<div><i>print("result")</i></div>
+<hr>
+this program is going 
+to spit out the addition of <b>x</b> and<b> y
+</b>
+which is equal to 10
+
+<hr>
+And lastly a program that 
+will add/subtract/devide/multiply integers and floats
+<hr>
+
+<div> <i> x=2.5 </i> </div>
+
+<div> <i> y=7.5 </i> </div>
+
+<i>result=float(x)+float(y)</i>
+
+<div><i>print("result")</i></div>
+<hr>
+<h2>
+Pynaster tip</h2>
+<div>The sign of multiplication is (*)</div>
+
+<div>The sign of subtraction is (-)</div>
+
+<div>The sign of devision is (/)</div>
+
+
+<div>The sign of addition is (+)</div>
+
+   <div></div>
+  <p>This all for data types,the next tutorial will be about variables </p>
+   <div></div>
+    </body>
+            </body>  
+        </html>
+    
